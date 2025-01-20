@@ -75,3 +75,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## Playground
+
+https://colab.research.google.com/drive/1Q4PYSpZ0zjQ_h4WXCsIpsDwL5TjEifNZ#scrollTo=XQSYR6byWkYY
